@@ -1,3 +1,4 @@
+# KR2: Kalchenko
 import os
 import socket
 
